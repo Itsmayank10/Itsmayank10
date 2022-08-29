@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **itsmayank10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QvEUC7S1Z6FNK8Ophicz1-q05489ziag/view?usp=sharing](https://drive.google.com/file/d/1QvEUC7S1Z6FNK8Ophicz1-q05489ziag/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/dJ124](shorturl.at/dJ124)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
