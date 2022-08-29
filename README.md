@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **itsmayank10@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/dJ124](shorturl.at/dJ124)
+- 📄 Know about my experiences [Mayank's Resume-1](Mayank's Resume-1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
