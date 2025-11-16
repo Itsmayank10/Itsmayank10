@@ -23,7 +23,7 @@ I specialize in **Automation Engineering, API Testing, Mobile Automation, DevOps
 - 🔭 Working on **API, Web & Mobile automation frameworks**
 - 🌱 Learning **Docker, Kubernetes & Performance Testing**
 - 🤝 Collaboration: **Open-source QA tools, automation utilities**
-- 📄 Know about my experience have look my <a href="https://drive.google.com/file/d/1MxHixK9nbZ-DXMddGcB_tTnyOauf1ewV/view?usp=sharing">Resume</a>
+- 📄 Know about my experience have look my <a href="https://drive.google.com/file/d/13ooEfTVcF2IO2XXxCUjGH8Wye54w2fM_/view?usp=drivesdk">Resume</a>
 - 📧 Reach out to me on → *Email(itsmayank10@gmail.com)*
 - 📱 Contact → *(7000218285)*
 
