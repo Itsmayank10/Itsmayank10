@@ -88,14 +88,6 @@ I specialize in **Automation Engineering, API Testing, Mobile Automation, DevOps
 
 ---
 
-# 📊 GitHub Analytics  
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=itsmayank10&show_icons=true&theme=tokyonight"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmayank10&theme=tokyonight"/>
-</p>
-
----
-
 # 🏆 Milestones & Achievements
 
 - 🚀 Reduced automation execution time by **50%+**
