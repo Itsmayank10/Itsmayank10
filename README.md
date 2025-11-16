@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Sharma;Senior+Software+Development+Engineer+in+Test;Automation+Engineer+%7C+API+%7C+Mobile+%7C+Web;Passionate+about+Quality+and+Engineering" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Mayank+Sharma;Senior+SDET+@+CoinDCX;Automation+%7C+DevOps+%7C+Quality+Engineering;Driving+Reliability+Through+Technology"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
